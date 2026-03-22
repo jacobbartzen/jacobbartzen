@@ -1,16 +1,26 @@
-## Hi there 👋
+# Jacob Bartzen
 
-<!--
-**jacobbartzen/jacobbartzen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Engineering student focused on CAD, practical projects, and coding.
 
-Here are some ideas to get you started:
+## What I do
+- CAD modeling and 3D printing
+- Python and C programming
+- Basic computer vision
+- Algorithms and problem solving
+- Project planning and implementation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Work
+- CAD models and 3D printing designs.
+- Basic computer vision and programming projects in Python and C.
+- Algorithm practice and small problem-solving exercises.
+- Private project currently under patent consideration.
+
+## Links
+- Resume: https://docs.google.com/document/d/170W1RrE1DcU1pcEhGQTgIiP2Hqlrvky4kWa6366weAM/edit?tab=t.0
+- Thingiverse: https://www.thingiverse.com/Technocat27/designs
+- Printables: https://www.printables.com/@Technocat07_2358774
+- Makersworld: https://makerworld.com/en/@Technocat07
+- LeetCode: https://leetcode.com/u/Technocat67/
+
+## Contact
+- jacobbartzen@gmail.com
