@@ -16,7 +16,7 @@ Engineering student focused on CAD, practical projects, and coding.
 - Private project currently under patent consideration.
 
 ## Links
-- Resume: https://docs.google.com/document/d/170W1RrE1DcU1pcEhGQTgIiP2Hqlrvky4kWa6366weAM/edit?tab=t.0
+- Resume: https://docs.google.com/document/d/1DUliUQDhUuXsbCe49m4wWRCI4e0m0aKDM6w7DxtfDRI/edit?tab=t.0
 - Thingiverse: https://www.thingiverse.com/Technocat27/designs
 - Printables: https://www.printables.com/@Technocat07_2358774
 - Makersworld: https://makerworld.com/en/@Technocat07
