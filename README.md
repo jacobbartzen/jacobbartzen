@@ -10,10 +10,10 @@ Engineering student focused on CAD, practical projects, and coding.
 - Project planning and implementation
 
 ## Featured Work
+- Door opener using an ESP32 connected to Alexa, 3D printed parts, and a stepper motor
 - CAD models and 3D printing designs.
 - Basic computer vision and programming projects in Python and C.
 - Algorithm practice and small problem-solving exercises.
-- Private project currently under patent consideration.
 
 ## Links
 - Resume: https://docs.google.com/document/d/1DUliUQDhUuXsbCe49m4wWRCI4e0m0aKDM6w7DxtfDRI/edit?tab=t.0
