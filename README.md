@@ -4,14 +4,14 @@ Engineering student focused on CAD, practical projects, and coding.
 
 ## What I do
 - CAD modeling and 3D printing
-- Python and C programming
-- Basic computer vision and machine learning
-- Algorithms and problem solving
+- Python, C, and C++ programming
+- Basic computer vision
+- Machine learning and AI
 - Project planning and implementation
 
 ## Featured Work
-- Door opener using an ESP32 connected to Alexa, cyclodial drive, and a stepper motor
-- Neural network coded from scratch in C w/ backpropagation and ADAM optmizer
+- Door opener using an ESP32C6 connected to Alexa, a cyclodial drive, and a stepper motor
+- Neural network coded from scratch in C w/ backpropagation and Adam optmizer / Momentum / RMSProp
 - Basic computer vision and programming projects in Python and C.
 
 ## Links
