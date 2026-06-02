@@ -1,18 +1,10 @@
 # Jacob Bartzen
 
-Engineering student focused on CAD, practical projects, and coding.
-
-## What I do
-- CAD modeling and 3D printing
-- Python, C, and C++ programming
-- Basic computer vision
-- Machine learning and AI
-- Project planning and implementation
-
-## Featured Work
-- Door opener using an ESP32C6 connected to Alexa, a cyclodial drive, and a stepper motor
-- Neural network coded from scratch in C w/ backpropagation and Adam optmizer / Momentum / RMSProp
-- Basic computer vision and programming projects in Python and C.
+## Projects
+- Door opener using an ESP32C6 connected to Alexa, and a stepper motor driving a cyclodial drive for gear reduction
+- Machine learning library coded from scratch in C. Fully adjustable activation functions, architecture, data, optimizers, training parameters
+- Line following and speed controlled car using a Raspberry Pi and OpenCV with PID speed control loops coded in Python (Not on Github)
+- 3D printing CAD Model collection of organizational household items found on Thingiverse, Makersworld, or Printables 
 
 ## Links
 - Resume: https://docs.google.com/document/d/1DUliUQDhUuXsbCe49m4wWRCI4e0m0aKDM6w7DxtfDRI/edit?tab=t.0
